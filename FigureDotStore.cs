@@ -174,4 +174,4 @@ namespace FiguresDotStore.Controllers
 			return new OkObjectResult(result.Result);
 		}
 	}
-} 
+}
